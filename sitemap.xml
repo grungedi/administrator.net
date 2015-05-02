@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://administrator.net.br/</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/virtualizacao/novas-features-hyper-v-windows8</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/category/virtualizacao</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/category/windows</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/hyper-v-3-0</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/hyper-v-replica</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/storage-live-migration</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/windows-8</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/sem-categoria/blog-de-amigos</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/category/sem-categoria</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/windows/mudando-porta-padrao-do-remote-desktopterminao-service</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/category/seguranca</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/acesso-remoto</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/rdp</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/terminal-service</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/windows-2</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/virtualizacao/dynamic-memory-do-hyper-v-2008-r2-sp1</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/virtualizacao/hyper-v-e-active-directory</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/ad</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/tag/hyper-v</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/virtualizacao/novo-blog-tecnico</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/category/certificacao</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/category/itil</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/category/linux</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://administrator.net.br/index.php/feed</loc>
+  <lastmod>2011-10-23T18:09:13+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

@@ -1,0 +1,41 @@
+Plugin: Twittaí
+Version: 1.1.1
+Author: Manoel Netto
+URL: http://tecnocracia.com.br/arquivo/twittai
+
+Funcionalidades do Twittaí 1.1.1
+
+    * Interface totalmente em português;
+    * Mensagens configuráveis para 4 situações: 
+		a. criando um novo rascunho; 
+		b. atualizando um rascunho; 
+		c. publicando um novo post; e 
+		d. atualizando um post publicado;
+    * Usuário escolhe em quais situações ele quer atualizar o Twitter;
+    * Possibilidade de utilizar o TinyURL ou o Migre-Me para encurtar URLs do post (usuário escolhe);
+    * Espaço para utilização de variáveis de rastreamento (para contabilizar visitas);
+    * Funciona nas versões 2.7+ do Wordpress;
+    * Possui bloqueios de segurança, para evitar twitts indesejados (posts privados, por exemplo).
+
+Nessa primeira versão, a idéia principal foi traduzir a interface, fazê-lo funcionar na versão 2.7 do WP e utilizar o migre.me como encurtador padrão, mas acabei tendo algumas idéias para melhorar o plugin, por conta disso, mudei o nome da minha versão, para poder seguir uma linha de desenvolvimento paralela à do Twitter Updater, sem atrapalhá-la.
+
+Como instalar o Twittaí
+
+    * Descompacte o arquivo baixado dentro da sua pasta wp-content/plugins;
+    * Faça upload da pasta twittai para o mesmo diretório, em seu servidor;
+    * Ative o plugin em sua interface administrativa e procure o nome do plugin na seção Ferramentas (Tools);
+    * Configure no final da página o seu login e senha de sua conta Twitter;
+    * Verifique as mensagens padrão configuradas e edite-as ao seu próprio gosto.
+
+Como utilizar o Twittaí
+
+Se você tiver instalado e configurado corretamente, a utilização é automática. Você não precisa fazer nada especial ao criar / editar um novo post. De acordo com o que você escolheu, ao salvar um post o plugin entrará em ação e atualizará seu Twitter automagicamente.
+
+Dúvidas e sugestões: http://tecnocracia.com.br/contato/
+
+** TIMELINE **
+
+- 19-07-2009 v1.1.1 : Correção de bug que duplicava os posts no Twitter em algumas situações;
+- 03-06-2009 v1.1   : Correção de bug dos posts agendados (não eram publicados no Twitter);
+                      Adicionado o is.gd como encurtador de URLs;
+- 24-05-2009 v1.0   : Lançamento da primeira versão do plugin
