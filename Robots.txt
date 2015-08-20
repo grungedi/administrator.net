@@ -9,3 +9,4 @@ Disallow: /wp-login.php
 
 
 teste
+teste2
