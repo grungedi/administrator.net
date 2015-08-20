@@ -5,3 +5,7 @@ Disallow:
 Disallow: /wp-admin
 
 Disallow: /wp-login.php
+
+
+
+teste
